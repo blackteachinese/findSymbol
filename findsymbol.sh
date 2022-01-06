@@ -1,7 +1,7 @@
 #!/bin/zsh
 
-echo "步骤1：chmod +x findSymbol.sh;步骤2：findSymbol.sh xxx"
-echo "⚠️注意不要使用sh findSymbol.sh 执行脚本，否则结果输出为空"
+echo "步骤1：chmod +x findsymbol.sh;步骤2：findsymbol.sh xxx"
+echo "⚠️注意不要使用sh findsymbol.sh 执行脚本，否则结果输出为空"
 # macOS查看文件内容常用的命令小结 https://juejin.cn/post/6844904050278793229
 searchSymbol=""
 if [ $# -eq 0 ]
